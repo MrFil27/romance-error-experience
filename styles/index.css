@@ -78,6 +78,16 @@ body{
     margin-bottom: 2rem;
     margin: 0;
 }
+.final-string{
+    font-family: "Petit Formal Script", cursive;
+    font-style: italic;
+    color: rgb(219, 90, 109);
+    font-weight: 300;
+    font-size: 1.5rem;
+    line-height: 1;
+    margin-bottom: 1rem;
+    margin: 0;
+}
 
 @media screen and (max-width: 768px){
     .card{
