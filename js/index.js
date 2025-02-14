@@ -1,7 +1,7 @@
 function createHeart() {
     const heart = document.createElement("div");
     heart.classList.add("heart");
-    heart.innerHTML = "❤"/*"❤️"*/;
+    heart.innerHTML = "❤️"/*"❤"*/;
     //❤ uging mobile devices
     //❤️ using PC
 
